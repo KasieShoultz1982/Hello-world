@@ -1,2 +1,4 @@
 # Hello-world
-Description goes here
+Hi humans!
+
+I've never done this before so just winging it to see how it goes. 
